@@ -17,7 +17,7 @@ def get_page
   end
 end
 
-binding.pry
+#binding.pry
 
 
   def print_courses
