@@ -43,7 +43,3 @@ class Scraper
 #   #instantiates Course objects giving each
 #   #attribute scraped from page
 # end
-
-
-
-Scraper.new.get_page
