@@ -39,7 +39,3 @@ end
 
 
 
-# def make_courses
-#   #instantiates Course objects giving each
-#   #attribute scraped from page
-# end
