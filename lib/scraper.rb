@@ -44,6 +44,6 @@ class Scraper
 #   #attribute scraped from page
 # end
 
-end
+
 
 Scraper.new.get_page
