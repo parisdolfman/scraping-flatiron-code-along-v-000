@@ -34,10 +34,9 @@ class Scraper
   end
 
 
-# def get_courses
-#   #uses CSS selector to grab HTML elements
-#   #containing course
-# end
+def get_courses
+  self.get_page.css(".post")
+end
 
 # def make_courses
 #   #instantiates Course objects giving each
